@@ -1,0 +1,2 @@
+# premium-copper-pipe-001-copper-pipe-bending-plumb-so
+Tired of losing your pipe bending measurements or forgetting which solder joint needs rework? This Notion template turns workshop chaos into a structured, repeatable workflow.  The Copper Pipe Bending &amp; Plumb Solder Craft Workshop eliminates the headache of scattered notes by providing a dedicated system to track every bend, cut, and solder joint.
